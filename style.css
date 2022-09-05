@@ -1,0 +1,67 @@
+body{
+    background-image:url('imagens/pattern002.png') ;
+    background-repeat: no-repeat;
+    font-family: 'Raleway', sans-serif;
+    box-shadow: 2px 2px 2px purple;
+    background-size: cover;
+   
+    
+
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+
+}
+
+.foto-principal {
+    border-radius: 30%;
+    border: 10px solid purple;
+    margin: 20px 10px 50px 20px ;
+    box-shadow: 10px 10px 10px purple;
+
+
+
+}
+
+
+h1{ 
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+
+}
+
+nav > a {
+    background-color: rgb(150, 118, 195);
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px purple;
+}
+
+main{
+    background-color: rgb(238, 179, 227);
+    margin: center;  
+    text-align: justify;
+    line-height: 2em;
+    max-width: 600px;           
+    padding: 20px;
+    box-shadow: 5px 5px 5px purple;
+}
+  img{
+    width:323px;
+    height: 350px;
+    
+}
+
+footer{
+    background: black;
+    color: aliceblue;
+    max-width: 600px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px purple;
+
+}
+
