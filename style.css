@@ -4,6 +4,7 @@ body{
     font-family: 'Raleway', sans-serif;
     box-shadow: 2px 2px 2px purple;
     background-size: cover;
+   min-width: 300px;
    
     
 
