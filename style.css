@@ -12,8 +12,8 @@ body{
 }
 
 .container {
-    min-width: 300px;
-    max-width: 900px;
+    min-width: 250px;
+    max-width: 600px;
     margin: 0 auto;
 
 }
@@ -89,7 +89,11 @@ main{
     color: aliceblue;
     text-align: center;
     padding: 10px 0;
-    margin-top: 0px;
-   
+    max-width: 600px;
+    min-width: 300px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 5px rgb(6, 6, 6) ;
+    
+     
 }
 
