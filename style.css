@@ -4,6 +4,7 @@ body{
     font-family: 'Raleway', sans-serif;
     box-shadow: 2px 2px 2px purple;
     background-size: cover;
+    margin: 0;
  
    
     
@@ -83,13 +84,12 @@ main{
     
 }
 
-footer{
+.footer{
     background: black;
     color: aliceblue;
-    max-width: 600px;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 5px 5px 5px purple;
-
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 0px;
+   
 }
 
