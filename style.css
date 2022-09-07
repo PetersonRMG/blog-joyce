@@ -21,9 +21,29 @@ body{
     margin: 20px 10px 50px 20px ;
     box-shadow: 10px 10px 10px purple;
 
-
-
 }
+.profile {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.social-icons {
+    width: 40px;
+    height: 40px;
+    text-decoration: none;
+    
+}
+
+.facebook {
+    margin: 0 15px;
+}
+
+
+
 
 
 h1{ 
@@ -32,13 +52,8 @@ h1{
 
 }
 
-nav > a {
-    background-color: rgb(150, 118, 195);
-    margin: auto;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 5px 5px 5px purple;
-}
+
+
 
 main{
     background-color: rgb(238, 179, 227);
