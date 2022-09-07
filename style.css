@@ -4,7 +4,7 @@ body{
     font-family: 'Raleway', sans-serif;
     box-shadow: 2px 2px 2px purple;
     background-size: cover;
-   min-width: 300px;
+ 
    
     
 
@@ -71,7 +71,8 @@ main{
     margin: center;  
     text-align: justify;
     line-height: 2em;
-    width:  600px;           
+    min-width: 300px;
+    max-width: 900px;          
     padding: 20px;
     box-shadow: 5px 5px 5px purple;
 }
